@@ -1,2 +1,3 @@
 Remote commmit
-Dummy changes
+Dummy changes from remote
+Changes from local
