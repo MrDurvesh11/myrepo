@@ -1,3 +1,6 @@
 Remote commmit
 Dummy changes from remote
 Changes from local
+
+New changes from 2 branch
+
